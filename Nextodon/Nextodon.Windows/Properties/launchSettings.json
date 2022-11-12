@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Nextodon.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
